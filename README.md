@@ -1,7 +1,7 @@
 <body>
 <div>
-    <h6>Untuk file database / ada pertanyaan bisa email ke :</h6>
-     <p>graykelly97@gmail.com</p>
+    <h6>Pertanyaan bisa email ke :</h6>
+     <p>sahatparuliansitorus4@gmail.com</p>
 </div>
 <h1> Sistem Informasi TK berbasis Website framework Codeigniter 3 </h1>
     <strong>Fitur-fitur</strong>
